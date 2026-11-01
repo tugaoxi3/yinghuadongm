@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tugaoxi3.github.io/yinghuadongm/sitemap.xml
